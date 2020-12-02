@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jochem!
-#### 🙋🏼‍♂️ I'm a student HBO-ICT, twenty years old and living in Zeeland, the Netherlands. I'm currently in the third year of my study and an intern at YourSurprise in Zierikzee. I focus primarily on front-end development
-#### 🌱 I’m currently learning Vue (and Nuxt)
+### 🙋🏼‍♂️  I'm a student HBO-ICT, twenty years old and living in Zeeland, the Netherlands. I'm currently in the third year of my study and an intern at YourSurprise in Zierikzee. I focus primarily on front-end development
+### 🌱  I’m currently learning Vue (and Nuxt)
 
 <!--
 **jochemvogel/jochemvogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
