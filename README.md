@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Jochem!
-### I'm a third year student HBO-ICT (Software Engineering), twenty years old and live in Zeeland, the Netherlands. I work as a (front-end) developer at YourSurprise in Zierikzee. Besides that I'm also really interested in design & marketing.
+### I'm a fourth year student HBO-ICT (Software Engineering), twenty-one years old and live in Zeeland, the Netherlands. I work as a (front-end) developer at YourSurprise in Zierikzee. Besides that I'm also really interested in design & marketing.
 
 ### I sometimes write on [Medium](https://jochemvogel.medium.com/) and post those articles on [Twitter](https://twitter.com/jochemvogel1).
 
