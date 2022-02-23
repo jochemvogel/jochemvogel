@@ -4,8 +4,6 @@ A twenty-one y/o front-end developer and student software engineering from the N
 
 You can follow me on [Twitter](https://twitter.com/jochemvogel1) to stay up-to-date with the things I do.
 
-###### Tools & technologies I work with:
-
 ![HTML](https://img.shields.io/badge/HTML-242731?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-242731?style=flat&logo=CSS3&logoColor=2965f1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-242731?style=flat&logo=Javascript)
@@ -26,7 +24,7 @@ You can follow me on [Twitter](https://twitter.com/jochemvogel1) to stay up-to-d
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-f3f3f3?style=flat&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-f3f3f3?style=flat&logo=vite)
 
-###### Some fancy stats:
+----
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jochemvogel&hide=stars&count_private=true&show_icons=true&text_color=718096&bg_color=ffffff00)
 
