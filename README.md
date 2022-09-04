@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jochem!
 
-A twenty-one y/o front-end developer and student software engineering from the Netherlands that builds web apps and works as a (front-end) developer at [YourSurprise](yoursurprise.com).
+A twenty-two y/o front-end developer and student software engineering from the Netherlands that builds web apps and works as a (front-end) developer at [YourSurprise](yoursurprise.com).
 
 You can follow me on [Twitter](https://twitter.com/jochemvogel1) to stay up-to-date with the things I do.
 
