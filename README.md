@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jochem!
 
-A twenty-two y/o front-end developer and student software engineering from the Netherlands that builds web apps.
+A twenty-two y/o freelance front-end developer from the Netherlands that builds web apps.
 
 You can follow me on [Twitter](https://twitter.com/jochemvogel1) to stay up-to-date with the things I do.
 
