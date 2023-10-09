@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jochem!
 
-A twenty-two y/o freelance product engineer from the Netherlands that builds web apps.
+A twenty-three y/o freelance product engineer from the Netherlands that builds web apps.
 
 You can follow me on [Twitter](https://twitter.com/jochemvogel1) to stay up-to-date with the things I do.
 
